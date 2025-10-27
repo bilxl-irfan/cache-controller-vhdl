@@ -1,0 +1,9 @@
+EN cachecontroller NULL /home/student1/birfan/coe758/Project1/CacheController/CacheController.vhd sub00/vhpl04 1761077805
+EN sdramcontroller NULL /home/student1/birfan/coe758/Project1/CacheController/SDRAMController.vhd sub00/vhpl02 1761077803
+MO icon NULL ipcore_dir/icon.v vlg09/icon.bin 1761077802
+EN cpu_gen NULL /home/student1/birfan/coe758/Project1/CacheController/CPU_gen.vhd sub00/vhpl00 1761077801
+MO SRAM NULL ipcore_dir/SRAM.v vlg1B/_s_r_a_m.bin 1761077802
+AR cachecontroller behavioral /home/student1/birfan/coe758/Project1/CacheController/CacheController.vhd sub00/vhpl05 1761077806
+AR cpu_gen behavioral /home/student1/birfan/coe758/Project1/CacheController/CPU_gen.vhd sub00/vhpl01 1761077802
+AR sdramcontroller behavioral /home/student1/birfan/coe758/Project1/CacheController/SDRAMController.vhd sub00/vhpl03 1761077804
+MO ila NULL ipcore_dir/ila.v vlg3E/ila.bin 1761077802

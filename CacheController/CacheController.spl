@@ -1,0 +1,17 @@
+[Inputs]
+clk
+[Outputs]
+WR_RD
+MEMSTRB
+RDY
+CS
+=ADDR[15:0]=
+=DOUT[7:0]=
+=sAddra[7:0]=
+=sDina[7:0]=
+=sDouta[7:0]=
+=sD_Addra[15:0]=
+=sD_Dina[7:0]=
+=sD_Douta[7:0]=
+=cacheAddr[7:0]=
+[BiDir]

@@ -1,0 +1,41 @@
+Running: /CMC/tools/xilinx/13.4/ISE_DS/ISE/bin/lin64/unwrapped/fuse -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/student1/mwhassan/COE758 Lab/Project1/CacheController/CacheController_isim_beh.exe" -prj "/home/student1/mwhassan/COE758 Lab/Project1/CacheController/CacheController_beh.prj" "work.CacheController" "work.glbl" 
+ISim O.87xd (signature 0x8ddf5b5d)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/student1/mwhassan/COE758 Lab/Project1/CacheController/ipcore_dir/SRAM.v" into library work
+Analyzing Verilog file "/home/student1/mwhassan/COE758 Lab/Project1/CacheController/ipcore_dir/ila.v" into library work
+Analyzing Verilog file "/home/student1/mwhassan/COE758 Lab/Project1/CacheController/ipcore_dir/icon.v" into library work
+Analyzing Verilog file "/CMC/tools/xilinx/13.4/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Parsing VHDL file "/home/student1/mwhassan/COE758 Lab/Project1/CacheController/SDRAMController.vhd" into library work
+Parsing VHDL file "/home/student1/mwhassan/COE758 Lab/Project1/CacheController/CPU_gen.vhd" into library work
+Parsing VHDL file "/home/student1/mwhassan/COE758 Lab/Project1/CacheController/CacheController.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 120364 KB
+Fuse CPU Usage: 860 ms
+Compiling module glbl
+Compiling module BLK_MEM_GEN_V6_1_output_stage(C_...
+Compiling module BLK_MEM_GEN_V6_1_softecc_output_...
+Compiling module BLK_MEM_GEN_V6_1_mem_module(C_CO...
+Compiling module BLK_MEM_GEN_V6_1(C_FAMILY="spart...
+Compiling module SRAM
+Compiling module icon
+Compiling module ila
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package vl_types
+Compiling architecture behavioral of entity CPU_gen [cpu_gen_default]
+Compiling architecture behavioral of entity SDRAMController [sdramcontroller_default]
+Compiling architecture behavioral of entity cachecontroller
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 11 VHDL Units
+Compiled 8 Verilog Units
+Built simulation executable /home/student1/mwhassan/COE758 Lab/Project1/CacheController/CacheController_isim_beh.exe
+Fuse Memory Usage: 1225784 KB
+Fuse CPU Usage: 970 ms
+GCC CPU Usage: 100 ms

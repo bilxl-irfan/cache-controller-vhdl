@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/student1/mwhassan/COE758 Lab/Project1/CacheController/CacheController_isim_beh.exe" -prj "/home/student1/mwhassan/COE758 Lab/Project1/CacheController/CacheController_beh.prj" "work.CacheController" "work.glbl" 

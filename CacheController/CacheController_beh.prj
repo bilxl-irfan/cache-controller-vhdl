@@ -1,0 +1,7 @@
+vhdl work "SDRAMController.vhd"
+verilog work "ipcore_dir/SRAM.v"
+verilog work "ipcore_dir/ila.v"
+verilog work "ipcore_dir/icon.v"
+vhdl work "CPU_gen.vhd"
+vhdl work "CacheController.vhd"
+verilog work "/CMC/tools/xilinx/13.4/ISE_DS/ISE//verilog/src/glbl.v"
