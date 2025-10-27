@@ -54,7 +54,7 @@ The cache controller efficiently manages read/write operations between a simulat
 ## 🏛️ Architecture
 
 ### Memory Hierarchy
-'''
+
 ┌─────────────────┐
 │ CPU_gen │ ← Transaction Generator
 │ (Testbench) │
@@ -72,10 +72,10 @@ The cache controller efficiently manages read/write operations between a simulat
 │SRAM │ │SDRAM │ ← Memory Components
 │Cache│ │ Main │
 └─────┘ └──────┘
-'''
+
 ### State Machine
 
-The cache controller implements a **5-state FSM** [file:80][web:83][web:87]:
+The cache controller implements a **5-state FSM**:
 
 | State | Name | Description |
 |-------|------|-------------|
