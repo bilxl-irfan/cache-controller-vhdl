@@ -315,7 +315,7 @@ end if;
 ## 👨‍💻 Course Information
 
 **Course**: COE758 - Digital Systems  
-**Institution**: Ryerson University  
+**Institution**: Toronto Metropolitan University  
 **Target Device**: Xilinx Spartan-3E (XC3S500E) FPGA
 
 ## 📄 License
@@ -331,8 +331,6 @@ This project is an educational implementation for academic purposes. Feel free t
 ---
 
 <div align="center">
-
-**⭐ Star this repo if you found it helpful for learning cache design!**
 
 *Built with 🔧 for digital systems education*
 
