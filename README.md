@@ -175,7 +175,7 @@ launch_simulation
 
 ## 📊 Simulation Results
 
-The design has been thoroughly tested using waveform analysis with the following test scenarios [attached_file:1][attached_file:2]:
+The design has been thoroughly tested using waveform analysis with the following test scenarios:
 
 ### Test Cases Verified
 
