@@ -258,7 +258,7 @@ Detailed timing diagrams and waveform analysis are included in the project repor
 
 ## 🎓 Educational Value
 
-This project demonstrates key concepts in computer architecture [web:83][web:87]:
+This project demonstrates key concepts in computer architecture:
 
 - ✅ **Cache memory organization** and addressing
 - ✅ **State machine design** for hardware controllers
@@ -271,8 +271,8 @@ This project demonstrates key concepts in computer architecture [web:83][web:87]
 
 Comprehensive documentation is included:
 
-- **`COE758-Project-1-Report.pdf`**: Complete project report with detailed analysis, state diagrams, timing diagrams, and waveform screenshots [attached_file:1]
-- **`Cache-Project-12-09-10.pdf`**: Original project specifications and requirements [attached_file:2]
+- **`COE758-Project-1-Report.pdf`**: Complete project report with detailed analysis, state diagrams, timing diagrams, and waveform screenshots
+- **`Cache-Project-12-09-10.pdf`**: Original project specifications and requirements
 - **Inline Comments**: VHDL source files contain detailed comments explaining functionality
 
 ## 🔧 Customization
