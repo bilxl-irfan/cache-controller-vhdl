@@ -202,7 +202,7 @@ Detailed timing diagrams and waveform analysis are included in the project repor
 - Hit/miss detection sequences
 - SDRAM read/write cycles
 
-*See `COE758-Project-1-Report.pdf` for complete waveform analysis* [attached_file:1]
+*See `COE758-Project-1-Report.pdf` for complete waveform analysis*
 
 ## 🔍 Signal Descriptions
 
