@@ -17,9 +17,9 @@
 
 ## 📋 Overview
 
-This project implements a **direct-mapped cache controller** in VHDL for the COE758 Digital Systems course. The design features a complete memory hierarchy including CPU transaction generator, cache memory (SRAM), and main memory (SDRAM) with comprehensive waveform testing and verification [file:80][file:81][file:82].
+This project implements a **direct-mapped cache controller** in VHDL for the COE758 Digital Systems course. The design features a complete memory hierarchy including CPU transaction generator, cache memory (SRAM), and main memory (SDRAM) with comprehensive waveform testing and verification.
 
-The cache controller efficiently manages read/write operations between a simulated CPU and main memory, implementing cache hit/miss detection, cache line replacement, and write-back mechanisms [web:83][web:87].
+The cache controller efficiently manages read/write operations between a simulated CPU and main memory, implementing cache hit/miss detection, cache line replacement, and write-back mechanisms.
 
 ## ✨ Features
 
